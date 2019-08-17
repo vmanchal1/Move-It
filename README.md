@@ -1,5 +1,5 @@
 # Move-It
-In this project, contains two ROS packages: the my_robot and the ball_chaser. Here the robot has been placed inside your world, and programed to chase white-colored balls-
+    This project contains two ROS packages: the my_robot and the ball_chaser. Here the robot has been placed inside Gazebo world, and programed to chase white-colored balls-
 
     drive_bot:
         Created a my_robot ROS package to hold the robot, the white ball, and the world.
